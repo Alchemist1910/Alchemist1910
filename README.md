@@ -93,9 +93,10 @@ Modern landing page with animations and smooth transitions
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alchemist1910&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=Alchemist1910&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alchemist1910&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Alchemist1910&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ---
 
