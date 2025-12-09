@@ -1,7 +1,6 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Alchemist1910/Alchemist1910/main/assets/dev-banner.png" width="900" alt="Developer Banner"/>
-</p>
+- Mario
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
 
 <h1 align="center">Hi, I'm <span style="color:#00E5FF">Sourav S</span> 👋</h1>
 <h3 align="center">UI/UX Designer | Frontend Developer | AI & DS Student</h3>
