@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="850"/>
+  <img src="https://raw.githubusercontent.com/Alchemist1910/Alchemist1910/main/assets/dev-banner.png" width="900" alt="Developer Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#00E5FF">Sourav S</span> 👋</h1>
@@ -26,17 +26,17 @@ Currently seeking opportunities to **design, develop, and grow** as a creative p
 
 ## 💼 Experience  
 
-### 🟦 **Design Lead – IIC Community (06/2025 – Present)** :contentReference[oaicite:1]{index=1}  
+### 🟦 **Design Lead – IIC Community (06/2025 – Present)**  
 - Lead designer for college events & social media  
 - Designed and maintained the IIC website  
 - Mentored junior members in Figma  
 - Ensured consistent branding and accessibility  
 
-### 🟧 **Design Intern – FOSS Club (08/2025 – 10/2025)** :contentReference[oaicite:2]{index=2}  
+### 🟧 **Design Intern – FOSS Club (08/2025 – 10/2025)**  
 - Designed event assets & graphics  
 - Supported FOSS teams with visual materials  
 
-### 🟩 **Web Lead – TinkerHub CEKNPY (07/2025 – Present)** :contentReference[oaicite:3]{index=3}  
+### 🟩 **Web Lead – TinkerHub CEKNPY (07/2025 – Present)**  
 - Leading web development projects  
 - Maintaining the community website  
 - Delivering responsive & accessible solutions  
@@ -45,7 +45,7 @@ Currently seeking opportunities to **design, develop, and grow** as a creative p
 
 ## 🎓 Education  
 **B.Tech – Artificial Intelligence & Data Science (2023–2027)**  
-College of Engineering Karunagappally (KTU) :contentReference[oaicite:4]{index=4}  
+College of Engineering Karunagappally (KTU)
 
 ---
 
@@ -54,16 +54,13 @@ College of Engineering Karunagappally (KTU) :contentReference[oaicite:4]{index=4
 ### 🚗 Tesla App Interface – Hackathon Project  
 Complete Tesla app UI with animations, login & multipage flow  
 🔗 Figma: https://www.figma.com/design/6AOAHZtMljEubUBWCO9nF1/Untitled  
-:contentReference[oaicite:5]{index=5}
 
 ### 🌐 Landing Page UI – Web/App Interface  
 Modern landing page with animations and smooth transitions  
 🔗 Figma: https://www.figma.com/design/pEcMF6TXoPkgrCX0rp8mi5/Assignment  
-:contentReference[oaicite:6]{index=6}
 
 ### 💼 Portfolio  
-🔗 https://sourav-alchemist.lovable.app/  
-:contentReference[oaicite:7]{index=7}
+🔗 https://sourav-alchemist.lovable.app/
 
 ---
 
@@ -75,33 +72,29 @@ Modern landing page with animations and smooth transitions
 - User Research & Empathy  
 - Accessibility & Inclusive Design  
 - Basic UI Animation  
-:contentReference[oaicite:8]{index=8}
 
 ### 💻 **Frontend Development**
 - React.js  
 - HTML5  
 - CSS3  
 - Responsive Design  
-:contentReference[oaicite:9]{index=9}
 
 ### 🛠️ **Tools**
 - Figma (Advanced)  
 - Canva (Intermediate)  
 - Adobe Illustrator & Photoshop (Basics)  
 - Git & GitHub  
-:contentReference[oaicite:10]{index=10}
 
 ### 🌐 **Languages**
 - English  
 - Hindi  
-:contentReference[oaicite:11]{index=11}
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alchemist1910&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alchemist1910&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Alchemist1910&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
@@ -120,3 +113,4 @@ Modern landing page with animations and smooth transitions
 </p>
 
 <p align="center">✨ Crafting beautiful experiences, one pixel at a time ✨</p>
+
