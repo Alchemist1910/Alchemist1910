@@ -89,24 +89,7 @@ Modern landing page with animations and smooth transitions
 - English  
 - Hindi  
 
----
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alchemist1910&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=Alchemist1910&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-
----
-
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Alchemist1910/Alchemist1910/output/github-contribution-grid-snake.svg" />
-</p>
-
-
----
 
 ## 🔗 Connect With Me  
 <p align="center">
